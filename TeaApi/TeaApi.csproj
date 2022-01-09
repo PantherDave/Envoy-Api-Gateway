@@ -4,6 +4,7 @@
     <TargetFramework>net6.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
+	  <UserSecretsId>Tea-API-4D10E470-9545-4832-919A-239675B65F59</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>

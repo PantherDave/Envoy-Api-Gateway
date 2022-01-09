@@ -4,6 +4,7 @@
     <TargetFramework>net6.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
+	  <UserSecretsId>Coffee-API-7418BBA7-61AC-49B8-80BA-82D5C2FE7023</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>
